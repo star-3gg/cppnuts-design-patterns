@@ -12,6 +12,10 @@ The build container will eventually run unit-tests and other automated tests.
 
 Feedback and suggestions are welcome. Feel free to open an issue on this repository.
 
+## PDF Documentation
+
+There is a PDF version of the documentation located [here](doc/PDF/).
+
 ## Obsidian & UML
 
 This project uses the UML — Unified Modeling Language standard for documentation of the code architecture.

@@ -18,8 +18,8 @@ protected:
 
 public:
   Tire(string n, int pressure) : name(n), pressure(pressure){};
-  string getName() { return name; }
-  int getPressure() { return pressure; }
+  virtual string getName() { return name; }
+  virtual int getPressure() { return pressure; }
 };
 
 class SimpleTire : public Tire {
@@ -39,8 +39,8 @@ protected:
 
 public:
   Body(string n, int strength) : name(n), strength(strength){};
-  string getName() { return name; }
-  int getStrength() { return strength; }
+  virtual string getName() { return name; }
+  virtual int getStrength() { return strength; }
 };
 
 class SimpleBody : public Body {

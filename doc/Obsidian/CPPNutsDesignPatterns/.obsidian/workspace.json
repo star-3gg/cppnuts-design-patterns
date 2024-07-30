@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "4a628bc6c42bfdd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5988296b0ee1864f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca1eede269ff867e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0002 - Abstract Factory Design Pattern/Abstract Factory Design Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "03c2dc0a19f7da3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "739e2cd93179432d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0001 - Factory Design Pattern/Factory Design Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cb9704b8dc9ab55",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ff3e909e66e51e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15db231081169e8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9761c6d357ad7d0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb8a99354c0cd828",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47cc0ff3205499af",
+    "type": "split",
+    "children": [
+      {
+        "id": "0939fa17be167449",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bc3a7b95bf8670f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0002 - Abstract Factory Design Pattern/Abstract Factory Design Pattern.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "558e52cc45bf5d08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0002 - Abstract Factory Design Pattern/Abstract Factory Design Pattern.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b071a6f0a99674bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1161a5cf8539a1d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0002 - Abstract Factory Design Pattern/Abstract Factory Design Pattern.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ca1eede269ff867e",
+  "lastOpenFiles": [
+    "0001 - Factory Design Pattern/Factory Design Pattern.md",
+    "0002 - Abstract Factory Design Pattern/Abstract Factory Design Pattern.md",
+    "UML/ClassDiagramAbstractFactoryDesignPattern.jpg",
+    "Pasted image 20240730204322.png",
+    "Pasted image 20240730203948.png",
+    "0002 - Abstract Factory Design Pattern",
+    "UML/ClassDiagramFactoryDesignPattern.jpg",
+    "0001 - Factory Design Pattern/ToyFactory.cpp~",
+    "0001 - Factory Design Pattern/FDPDemo.cpp~",
+    "0001 - Factory Design Pattern/Car.cpp~",
+    "0001 - Factory Design Pattern/Car.h~",
+    "0001 - Factory Design Pattern/Car.h",
+    "0001 - Factory Design Pattern/Car.cpp",
+    "0001 - Factory Design Pattern/ToyFactory.h~",
+    "0001 - Factory Design Pattern/Toy.h~",
+    "0001 - Factory Design Pattern/Toy.cpp~",
+    "Welcome.md",
+    "0000 - Introduction.md"
+  ]
+}

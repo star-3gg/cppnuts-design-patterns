@@ -6,6 +6,8 @@
 
 C++ does not support Virtual Constructors. Instead the superclass constructor is used unless overwritten.
 
+> A virtual call is a mechanism to get work done given partial information. In particular, "virtual" allows us to call a function knowing only an interfaces and not the exact type of the object. To create an object you need complete information. In particular, you need to know the exact type of what you want to create. Consequently, a "call to a constructor" cannot be virtual.
+> - [Bjarne Stroustrup](https://www.stroustrup.com/index.html), inventor of the C++ language
 ## How to implement FDP
 
 Define an interface or an abstract class for creating an object but let the subclasses decide which class has to initiate.

@@ -18,16 +18,3 @@ add_executable(${PROJECT_NAME}
   include/Plane.h
   include/ToyFactory.h
 )
-
-# file(GLOB SOURCES
-#     *.cpp
-# )
-#
-# file(GLOB HEADERS
-#   include/*.h
-# )
-#
-# add_executable(${PROJECT_NAME} ${SOURCES} ${HEADERS})
-#
-# target_include_directories(${PROJECT_NAME} PRIVATE include)
-

@@ -1,0 +1,12 @@
+services:
+  cpp-btr:
+    container_name: cpp-btr
+    build:
+      context: ./dockerfiles/
+      dockerfile: archlinux-btr.Dockerfile
+    volumes:
+      - .:/app
+      - /app/build
+    working_dir: /app
+    command: ./setup.sh
+    stop_grace_period: 10ms

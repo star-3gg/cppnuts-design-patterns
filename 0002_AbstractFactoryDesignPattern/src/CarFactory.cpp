@@ -1,10 +1,3 @@
-// #ifndef __io__
-// #define __io__
-// #include <iostream>
-// using std::cin;
-// using std::cout;
-// using std::endl;
-// #endif // !__io__
 #include "Car.cpp"
 using AFDP::LuxuryBody;
 using AFDP::LuxuryTire;

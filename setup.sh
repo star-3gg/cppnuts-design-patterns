@@ -6,4 +6,4 @@ make -C build
 
 # INFO: Execute bult binaries
 echo 0 | ./build/0001_FactoryDesignPattern/FDP
-echo 0 | ./build/0002_FactoryDesignPattern/AFDP
+./build/0002_AbstractFactoryDesignPattern/AFDP

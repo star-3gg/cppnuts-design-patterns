@@ -3,17 +3,12 @@ using std::cin;
 using std::cout;
 using std::endl;
 #ifndef TOY
-
 #define TOY
 #include "../include/Toy.h"
-
 #endif // !TOY
-
 #include "../include/ToyFactory.h"
-
 using FDP::Toy;
 using FDP::ToyFactory;
-
 int main(int argc, char *argv[]) {
   int type;
   while (true) {
@@ -22,16 +17,12 @@ int main(int argc, char *argv[]) {
     if (!type) {
       break;
     }
-
     Toy *v = ToyFactory::createToy(type);
-
     if (v) {
       v->showProduct();
       delete v;
     }
   }
-
   cout << "[ Exit ]" << endl;
-
   return 0;
 }

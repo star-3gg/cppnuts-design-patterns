@@ -1,12 +1,8 @@
 #include "../include/Plane.h"
 #include <iostream>
-
 using std::cout;
 using std::endl;
-
 namespace FDP {
-// Plane::Plane() {}
-
 void Plane::prepareParts() {
   cout << "preparing plane '" << this->name << "' parts" << endl;
   return;
@@ -27,6 +23,4 @@ void Plane::showProduct() {
   cout << "showing plane product" << endl;
   return;
 }
-
-// Plane::~Plane() {}
 } // namespace FDP
